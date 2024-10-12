@@ -1,5 +1,3 @@
-### spisql
-
 **Introducing spisql**
 
 **spisql** is an advanced tool meticulously crafted for testing SQL injection vulnerabilities. Featuring a streamlined and intuitive interface, spisql allows security professionals to efficiently identify and exploit potential weaknesses in specified URLs.
