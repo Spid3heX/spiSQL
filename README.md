@@ -6,4 +6,4 @@
 
 This tool enhances your penetration testing toolkit, enabling faster and more accurate assessments of SQL injection vulnerabilities.
 
-**Anticipate its upcoming release!**
+**Stay tuned for its release and prepare to elevate your cybersecurity game!**
